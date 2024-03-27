@@ -1,0 +1,3 @@
+C:/Computer_Programing/CPP/CodeWithMosh/Beginner/ExternalFiles/cmake-build-debug/CMakeFiles/ExternalFiles.dir
+C:/Computer_Programing/CPP/CodeWithMosh/Beginner/ExternalFiles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Computer_Programing/CPP/CodeWithMosh/Beginner/ExternalFiles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# ninja log v5
+3	245	7332496353241292	build.ninja	f7a87e7a0d0c4512
+7	665	7331782125813325	CMakeFiles/ExternalFiles.dir/utils/greet.cpp.obj	e6d48276a8ec34d
+14	570	7331798184847386	CMakeFiles/ExternalFiles.dir/main.cpp.obj	57fa5b3f14e86dc0
+670	1024	7331782129279936	ExternalFiles.exe	31b43616aa3538ce
+7	113	7331798180285286	CMakeFiles/ExternalFiles.dir/utils/AddNumbers.cpp.obj	fd5b8e842edc6fde
